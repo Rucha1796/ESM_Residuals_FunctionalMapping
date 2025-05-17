@@ -1,11 +1,16 @@
-# ESM Residual‑Based Functional Mutation Analysis
+# 
 
-This repository benchmarks two protein language models—ESM1b and ESM1v—against experimental fitness data and uses a residual‑based workflow to flag candidate functional missense mutations. The pipeline includes:
+This repository has all the code and datasets for the project Titled 'Combining ESM models with Experimentally Derived Structural Stability to Identify Functional Missense Mutations' completed In Partial Fulfillment of the Requirements for the Degree Master of Science at San Jose State University under the guidance of Dr. William Bill Andreopoulos. 
 
-- Inference on **domain-only sequences** using both ESM1b and ESM1v.
+
+The effect of functional missense mutations is challenging to predict. The goal of this project is to to develop and apply integrated approaches that can systematically identify and interpret these hidden, functionally significant mutations. We Focus on identifying mutations that are structurally stable but have functional relevance. By doing so we aim to provide insights for prioritizing mutations and amino acid positions for experimental validation and clinical assessment.
+
+
+ The pipeline includes:
+- Inference (Zero-shot) on **domain-only sequences** using both ESM1b and ESM1v models.
 - Inference on **full-length protein sequences** using ESM1v with a sliding window approach.
 - Downstream correlation analysis 
-- Residual-based analysis to identify potential **functional missense mutations**.
+- Functional analysis to identify potential **functional missense mutations**.
 - Structural mapping using **AlphaFold2 PDBs** and clustering of high-residual sites.
 
 ## Folders Overview
@@ -21,6 +26,8 @@ This repository benchmarks two protein language models—ESM1b and ESM1v—again
 
 - `alphafold_structures.zip`  
   Includes PDB files used for structural mapping of high-residual mutation sites.
+  
+- .ipynb files from 00 to 04 contains the downstream analysis scripts for functional analysis and identificiation of mutations that are structurally stable but have functional relevance. 
 
 Each folder includes logs, inference scripts, output CSVs, and SLURM scripts to run jobs on an HPC environment. All the python scripts for downstram analysis and residual analysis are also deposited in tthis repository. 
 

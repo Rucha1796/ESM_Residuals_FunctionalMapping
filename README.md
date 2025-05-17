@@ -1,6 +1,4 @@
-# 
-
-This repository has all the code and datasets for the project Titled 'Combining ESM models with Experimentally Derived Structural Stability to Identify Functional Missense Mutations' completed In Partial Fulfillment of the Requirements for the Degree Master of Science at San Jose State University under the guidance of Dr. William Bill Andreopoulos. 
+# This repository has all the code and datasets for the project Titled 'Combining ESM models with Experimentally Derived Structural Stability to Identify Functional Missense Mutations' completed In Partial Fulfillment of the Requirements for the Degree Master of Science at San Jose State University under the guidance of Dr. William Bill Andreopoulos. 
 
 Find the Dataset Link Here as the file is greater than 25MB and couldnt be uploaded on github : https://drive.google.com/file/d/1LvVNEagXQFMnFIi9ddsA5-RK-uxdiiv5/view?usp=sharing
 

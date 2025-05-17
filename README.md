@@ -2,6 +2,7 @@
 
 This repository has all the code and datasets for the project Titled 'Combining ESM models with Experimentally Derived Structural Stability to Identify Functional Missense Mutations' completed In Partial Fulfillment of the Requirements for the Degree Master of Science at San Jose State University under the guidance of Dr. William Bill Andreopoulos. 
 
+Find the Dataset Link Here as the file is greater than 25MB and couldnt be uploaded on github : https://drive.google.com/file/d/1LvVNEagXQFMnFIi9ddsA5-RK-uxdiiv5/view?usp=sharing
 
 The effect of functional missense mutations is challenging to predict. The goal of this project is to to develop and apply integrated approaches that can systematically identify and interpret these hidden, functionally significant mutations. We Focus on identifying mutations that are structurally stable but have functional relevance. By doing so we aim to provide insights for prioritizing mutations and amino acid positions for experimental validation and clinical assessment.
 

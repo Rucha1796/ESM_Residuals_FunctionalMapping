@@ -1,4 +1,4 @@
-#Combining ESM models with Experimentally Derived Structural Stability to Identify Functional Missense Mutations
+# Combining ESM models with Experimentally Derived Structural Stability to Identify Functional Missense Mutations
 
 This repository has all the code and datasets for the project Titled 'Combining ESM models with Experimentally Derived Structural Stability to Identify Functional Missense Mutations' completed In Partial Fulfillment of the Requirements for the Degree Master of Science at San Jose State University under the guidance of Dr. William Bill Andreopoulos. 
 
